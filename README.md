@@ -1,6 +1,5 @@
-# Diego Bertolin Rosenente
-
-Welcome to my GitHub portfolio. Here, you will find information about me and my career. I have included several projects that I have been involved in throughout my professional experience at various companies, as well as examples of original processes and software that I have developed.
+# ![App Screenshot](https://avatars.githubusercontent.com/u/181212417?s=30&u=6fa79b45feeee397e2bfdaecde06142c91457c41&v=4) Diego Bertolin Rosenente
+ Welcome to my GitHub portfolio. Here, you will find information about me and my career. I have included several projects that I have been involved in throughout my professional experience at various companies, as well as examples of original processes and software that I have developed.
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rosenente)
